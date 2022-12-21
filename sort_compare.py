@@ -1,5 +1,5 @@
 import argparse
-# other imports go here
+# other impots go here
 
 import random
 import time
@@ -90,4 +90,4 @@ if __name__ == "__main__":
         # Repeat the same loop and use shellSort(...)
 
         avg_time = total_time / 100
-        print(f"Insertion sort took {avg_time:10.7f} seconds to run, on average for a list of {the_size} elements")
+        print(f"Insertion sort took {avg_time:10.7f} seconds to run, on average for a list of {the_size} elements"
